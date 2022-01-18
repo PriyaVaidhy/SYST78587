@@ -4,6 +4,8 @@
  */
 package personlist;
 
+import java.util.Scanner;
+
 /**
  *
  * @author sathy
