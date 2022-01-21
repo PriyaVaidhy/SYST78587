@@ -22,6 +22,8 @@ for(int i=0; i>p.length;i++)
 {
 System.out.println("insert person name: ");
 p[i].setP_name(input.nextLine());
+  System.out.println("insert person address: ");
+p[i].setP_address(input.nextLine());
 }
 }
 
